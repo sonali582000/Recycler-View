@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Delish</string>
+    <string-array name="search_iteams">
+        <item>Pizza</item>
+        <item>Garlic Bread</item>
+        <item>Burger</item>
+        <item>Milk Shake</item>
+        <item>Pastry</item>
+        <item>Ice Cream</item>
+        <item>Tacos</item>
+        <item>Donuts</item>
+    </string-array>
+</resources>
